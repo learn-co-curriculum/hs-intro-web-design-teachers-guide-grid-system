@@ -1,4 +1,5 @@
 ### SWABTS 
+***Students will be able to understand the fundamentals of the grid system and incorporate them into their project***
 
 
 ### Motivation
