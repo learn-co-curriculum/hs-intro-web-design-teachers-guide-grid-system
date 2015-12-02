@@ -80,3 +80,5 @@ The grid system is a tool for establishing spatial hierarchy in your website. Gr
 Because columns are pleasing to the eye, people respond better to a website with a grid system layout.
 
 ### Hints and Hurdles 
+
+<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-grid-system' data-visibility='hidden'>View this lesson on Learn.co</a>
