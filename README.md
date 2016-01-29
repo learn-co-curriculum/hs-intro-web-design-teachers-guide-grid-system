@@ -81,4 +81,4 @@ Because columns are pleasing to the eye, people respond better to a website with
 
 ### Hints and Hurdles 
 
-<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-grid-system' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-grid-system' title='SWABTS'>SWABTS</a> on Learn.co and start learning to code for free.</p>
